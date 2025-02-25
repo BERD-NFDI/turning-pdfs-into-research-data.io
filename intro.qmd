@@ -2,6 +2,12 @@
 
 Welcome to the course "Turning PDFs into Research Data".
 
+**Do you ever feel that the data you need for your research is accessible but it’s not in a convenient table, such as company reports or building plans? Perhaps the information you need is spread out across many different documents?**
+
+If only we could read and extract structured data from thousands of written documents. 
+
+In this course, we explore how to accomplish this task by combining web scraping, Optical Character Recognition (OCR), and Natural Language Processing (NLP). Over four weeks, we provide online lessons and interactive sessions to learn the fundamentals of these key technologies.
+
 BERD Academy is part of BERD\@NFDI; funded by the Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) -- 460037581
 
 If not indicated otherwise, the contents of this course are licensed under CC BY 4.0 NC
@@ -25,10 +31,10 @@ This is an online course.
 
 The course includes 4 live Online Meetings, in which you will discuss the week's contents with the instructor and fellow participants:
 
--   Meeting 1: **Aug 27**, 2024, 4:30pm -- 5:30pm CEST
--   Meeting 2: **Sep 03**, 2024, 4:30pm -- 5:30pm CEST
--   Meeting 3: **Sep 10**, 2024, 4:30pm -- 5:30pm CEST
--   Meeting 4: **Sep 17**, 2024, 4:30pm -- 5:30pm CEST
+-   Meeting 1: **March 13**, 2024, 4:30pm -- 5:30pm CEST
+-   Meeting 2: **March 20**, 2024, 4:30pm -- 5:30pm CEST
+-   Meeting 3: **April 03**, 2024, 4:30pm -- 5:30pm CEST
+-   Meeting 4: **April 10**, 2024, 4:30pm -- 5:30pm CEST
 
 ## Prerequisites
 
