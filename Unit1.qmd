@@ -1,3 +1,3 @@
 ## Unit 1 {.unnumbered}
 
-In this unit, you will be introduced to web scraping and learn the theory of how bots are designed to harvest PDFs from websites. In the interactive session, we can introduce our own contexts, and if you have your own scraping project in mind, we can begin to plan how we will approach the problem. 
+In this unit, you will be introduced to web scraping and learn the theory of how bots are designed to harvest PDFs from websites. In the interactive session, we can introduce our own contexts, and if you have your own scraping project in mind, we can begin to plan how we will approach the problem! 
