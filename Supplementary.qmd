@@ -1,6 +1,6 @@
 ## Supplementary {.unnumbered}
 
-May students have expressed particular interest in extracting tables from PDFs. For this, I will present here some tools for the specific use case. If your PDF is actually a set of images (as we discuss in this Unit), you might try 'Nougat' by Meta.
+Many students have expressed particular interest in extracting tables from PDFs. For this, I will present here some tools for the specific use case. If your PDF is actually a set of images (as we discuss in this Unit), you might try 'Nougat' by Meta.
 
 If interested, you can also view the following Colab notebook and video demonstration.
 
@@ -13,3 +13,7 @@ If interested, you can also view the following Colab notebook and video demonstr
 -   [Example Notebook for Nougat](https://colab.research.google.com/drive/1oC7jK8UMEYRDAEPevn5VQweadjN4WyeW?usp=sharing#scrollTo=ortVi_5g3ADU)
 
 If your PDFs have the PostScript content intact, you might consider the relatively simpler [Camelot package](https://camelot-py.readthedocs.io/en/master/).
+
+In July 2025, Google openly published its tool for extracting data from text, called langExtract. Students in the course may think of this as an alternative to using other LLMs, which are intended for general use cases, such that LangExtract is more specifically designed for our needs. Students may consider revising the assignment example code to use LangExtract instead of OpenAI to see how this model works for their project.
+
+-   [Example Notebook for LangExtract](https://colab.research.google.com/drive/1Ie_UBX2U30ix5u_-tdxeA1cVuDWeFoHB?usp=sharing)
