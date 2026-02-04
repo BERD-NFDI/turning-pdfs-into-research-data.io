@@ -25,12 +25,10 @@ This is an online course.
 
 The course includes 4 live Online Meetings, in which you will discuss the week's contents with the instructor and fellow participants:
 
--   Meeting 1: **Mar 13**, 2025, 4:30pm -- 5:30pm CET
--   Meeting 2: **Mar 20**, 2025, 4:30pm -- 5:30pm CET
--   Meeting 3: **Apr 03**, 2025, 4:30pm -- 5:30pm CEST
--   Meeting 4: **Apr 10**, 2025, 4:30pm -- 5:30pm CEST
-
-*Please note the timezone including the change to summer time during the run of the course.
+-   Meeting 1: **Apr 14**, 2026, 3:00pm -- 4:00pm CEST
+-   Meeting 2: **Apr 21**, 2026, 3:00pm -- 4:00pm CEST
+-   Meeting 3: **May 05**, 2026, 3:00pm -- 4:00pm CEST
+-   Meeting 4: **May 12**, 2026, 3:00pm -- 4:00pm CEST
 
 ## Prerequisites
 
