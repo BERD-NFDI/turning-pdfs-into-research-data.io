@@ -58,7 +58,7 @@
     "href": "intro.html#prerequisites",
     "title": "Introduction",
     "section": "Prerequisites",
-    "text": "Prerequisites\n\nBasic programming knowledge (R, python, …)\n\nNote that the course will be in Python, but if you only know R, this is still ok! The code examples are simple and will run entirely on Google Colab, meaning you will not have to install anything. This course will make a good opportunity to try Python for the first time and you can also try the self-paced BERD introduction to Python course.\n\nWillingness to learn new technical skills\nA Google Account",
+    "text": "Prerequisites\n\nBasic programming knowledge (R, python, …)\n\nNote that the course will be in Python, but if you only know R, this is still ok! The code examples are simple and will run entirely on Google Colab, meaning you will not have to install anything. This course will make a good opportunity to try Python for the first time and you can also try the self-paced BERD introduction to Python course.\n\nWillingness to learn new technical skills\nA Google Account\nA Zoom account to participate in the online meetings",
     "crumbs": [
       "Overview",
       "Introduction"
@@ -69,7 +69,7 @@
     "href": "intro.html#about-the-instructor",
     "title": "Introduction",
     "section": "About the Instructor",
-    "text": "About the Instructor\nJohn ‘Jack’ Collins is a PhD Student in Sociology at the Graduate School of Economic and Social Sciences. He holds a Bachelor’s of Sociology with Honours from the Australian National University. Jack has a Master’s degree in Data Science from James Cook University. His Master’s project was regarding predictive modelling for student attrition from sub-tertiary courses in Australia. During his Master’s studies, he also assisted in research projects regarding social attitudes and voting behaviour in Australia. Before starting PhD, Jack was a Senior IT Consultant specialising in data engineering, analytics and software development. Jack is interested in applying Data Science and IT to sociological research, particularly with regard to machine learning, analytics, and web applications.",
+    "text": "About the Instructor\nJohn ‘Jack’ Collins is a Data Scientist with a PhD in Social Data Science from the University of Mannheim, Graduate School of Economic and Social Sciences. He holds a Bachelor’s of Sociology with Honours from the Australian National University. Jack has a Master’s degree in Data Science from James Cook University. His PhD concerns applications of machine learning techniques to survey methodology. Before starting PhD, Jack was a Senior IT Consultant specialising in data engineering, analytics and software development. Jack is interested in applying Data Science and IT to sociological research, particularly with regard to machine learning, analytics, and web applications.",
     "crumbs": [
       "Overview",
       "Introduction"
@@ -156,7 +156,7 @@
     "href": "Unit1-meeting.html",
     "title": "U1 Meeting",
     "section": "",
-    "text": "Meeting 1: Aug 27, 2024, 4:30pm – 5:30pm CEST\nPlease find the information on how to join the zoom meeting in the corresponding e-mail.",
+    "text": "Meeting 1: Apr 14, 2026, 3:00pm – 4:00pm CEST\nPlease find the information on how to join the zoom meeting in the corresponding e-mail.",
     "crumbs": [
       "Unit 1",
       "U1 Meeting"
@@ -210,7 +210,7 @@
     "href": "Unit2-meeting.html",
     "title": "U2 Meeting",
     "section": "",
-    "text": "Meeting 2: Sep 03, 2024, 4:30pm – 5:30pm CEST\nPlease find the information on how to join the zoom meeting in the corresponding e-mail.",
+    "text": "Meeting 2: Apr 21, 2026, 3:00pm – 4:00pm CEST\nPlease find the information on how to join the zoom meeting in the corresponding e-mail.",
     "crumbs": [
       "Unit 2",
       "U2 Meeting"
@@ -264,7 +264,7 @@
     "href": "Unit3-meeting.html",
     "title": "U3 Meeting",
     "section": "",
-    "text": "Meeting 3: Sep 10, 2024, 4:30pm – 5:30pm CEST\nPlease find the information on how to join the zoom meeting in the corresponding e-mail.",
+    "text": "Meeting 3: May 05, 2026, 3:00pm – 4:00pm CEST\nPlease find the information on how to join the zoom meeting in the corresponding e-mail.",
     "crumbs": [
       "Unit 3",
       "U3 Meeting"
@@ -329,7 +329,7 @@
     "href": "Unit4-meeting.html",
     "title": "U4 Meeting",
     "section": "",
-    "text": "Meeting 4: Sep 17, 2024, 4:30pm – 5:30pm CEST\nPlease find the information on how to join the zoom meeting in the corresponding e-mail.",
+    "text": "Meeting 4: May 12, 2026, 3:00pm – 4:00pm CEST\nPlease find the information on how to join the zoom meeting in the corresponding e-mail.",
     "crumbs": [
       "Unit 4",
       "U4 Meeting"
